@@ -1,0 +1,1 @@
+This project is reading from redis queue and printing values into terminal. Also it pushes stuff to temp queue
